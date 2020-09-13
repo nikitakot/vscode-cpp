@@ -3,7 +3,7 @@
     "tasks": [
         {
             "type": "shell",
-            "label": "clang++ build active file",
+            "label": "clang++ build workspaceFolder",
             "command": "/usr/bin/clang++",
             "args": [
                 "-std=c++17",
