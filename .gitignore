@@ -1,2 +1,6 @@
 myProgram.out
 myProgram.out.dSYM
+*.exe
+*.ilk
+*.obj
+*.pdb
